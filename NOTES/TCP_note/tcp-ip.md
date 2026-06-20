@@ -18,7 +18,25 @@ In the early days of networking, vendors each created their own proprietary comm
 
 A **standard** is an agreed-upon specification — vendor-neutral — that describes exactly how a protocol or technology should work. Most networking standards are developed by **independent standards organizations** (e.g., IEEE, IETF) with participation from engineers across many companies, not by a single vendor.
 
----
+---📡 Summary: Standards and Prprotocol is a set of rules that defines how devices communicate (e.g., TCP, HTTP, WPA2).
+
+A standard is an official agreement created by organizations (IEEE, ISO, IETF, ITU) that specifies which protocols must be used and how, ensuring compatibility across devices.
+
+Each standard may include one or multiple protocols.
+
+Example: IEEE 802.11 (Wi‑Fi)
+Standard: IEEE 802.11
+
+Protocols inside it:
+
+WPA2/WPA3 → authentication & encryption
+
+MAC layer rules → manage access to the wireless medium
+
+Frame formats → define Wi‑Fi packet structure
+
+👉 Takeaway:
+Protocols are the rules of communication, while standards are the official frameworks that organize and enforce those rules so all devices can work together.
 
 ## 2. Why Use a Layered Model?
  
